@@ -117,7 +117,8 @@ Content: (7 pt)
       ___ Includes at least 4 of the discussion points from the multiple categories (6 pt)
 
       ___ Includes less than 4 of the discussion points (3 pt)
-      ___ Does not include any of the discussion points (0 pt)
+      
+  ___ Does not include any of the discussion points (0 pt)
       
     Reflection on AI  (1 pt)
     
