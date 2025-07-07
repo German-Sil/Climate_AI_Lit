@@ -99,16 +99,29 @@ and AI in ways not listed here as well)
 Grading Breakdown (Checklist, 1 check per sub-section):
 Response  (10 pts total)
 Chat GPT Output: (0.5 pts)
+
       ___ Includes the requested AI generated text (0.5 pt)
+      
       ___ Does not include the requested AI generated text (0 pt)
+      
 Length: (2.5 pt)
+
       ___ Approximately meets or exceeds the expected word count (2.5 pt)
+      
       ___ Does not meet or exceed the word count (0 pt)
+      
 Content: (7 pt)
+
     Discussion Points (6 pts)
+    
       ___ Includes at least 4 of the discussion points from the multiple categories (6 pt)
+      
       ___ Includes less than 4 of the discussion points (3 pt)
+      
       ___ Does not include any of the discussion points (0 pt)
+      
     Reflection on AI  (1 pt)
+    
       ___ Included some reflection on the use of AI in climate science communication. (1 pt)
+      
       ___ Does not reflect on the us of AI in climate science communication (0 pt)
